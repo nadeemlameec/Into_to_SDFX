@@ -1,0 +1,14 @@
+body{
+  background-color:#212529;
+}
+
+.heading{
+  color:#e9ecef;
+  text-align: center;
+  margin-top: 10px;
+
+}
+.item1{
+  align-items: center;
+  margin-top: 30px;
+}
